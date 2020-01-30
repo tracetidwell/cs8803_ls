@@ -1,0 +1,14 @@
+project/data/
+project/runs/
+project/saved_models/
+reading/
+slides/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb
+.ipynb_checkpoints
